@@ -165,3 +165,4 @@ thread 실
 ethos 성격, 관습, 특징
 resonate : 공명하다, 공감을주다 , 울려퍼지다
 garment : 외피
+disposable : 일회용의
