@@ -160,3 +160,7 @@ leave = 떠나다 / 두고오다ok
 trousers = 바지(슬렉스 같은 의미)
 apron = 앞치마
 premise = 전제
+revival 회복
+thread 실
+ethos 성격, 관습, 특징
+resonate : 공명하다, 공감을주다 , 울려퍼지다
