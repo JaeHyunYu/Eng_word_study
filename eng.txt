@@ -150,3 +150,13 @@ ingenuity 독창성
 device 고안하다
 soaked 흠뻑젖다
 adorn 꾸미다
+
+'24.1.19
+
+frill : 허세
+no-frills= 필요한만큼만 있는
+rucksake 가방
+leave = 떠나다 / 두고오다ok
+trousers = 바지(슬렉스 같은 의미)
+apron = 앞치마
+premise = 전제
