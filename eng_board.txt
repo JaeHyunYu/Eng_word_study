@@ -1,0 +1,192 @@
+Part1
+
+시작 문구
+-	I hope you well
+-	I’m writing this letter to you to (discuss/complain) about~
+-	~~~ sounds really interesting! I’d be happy to tell you about ~~~ project.
+
+사용문구
+-	??? has been (disturbed/destroyed) by the ??? from ??? (around 10pm / 10 years before)
+-	??? has affected very badly, especially ???, as it is almost impossible to do my work
+-	It’s important to me as it’s a very nice chance for the family to come together and have a daily conversation
+-	I’m happy to inform you about~
+
+부탁
+-	Might I suggest that a letter send to ~~ , reminding him/them of the rules regarding noise.
+마무리
+-	I look forward to your comments on this letter.
+-	I hope that helps. Do ask if there’s anything else you’d like to know.
+-	All the best.
+
+
+-	
+-	약속 같은 거 잡을 때
+	What are you doing next Sunday?
+보통 ~~때한다
+ It’s usually in January or February.
+ 
+Part2
+초반 부분에 예시를 들어서 한번 더 반복한다.
+사람들의 통념 – 나의 의견
+내주장 – 근거 예시
+주장 정리 – 근거 요약 - 마무리
+Job seekers often question whether it is better to ~~
+
+양쪽 다 생각해보고 싶다
+-	but I’d like to consider the advantages and disadvantages of both.
+마무리
+-	결과적으로 : Based on the above,
+-	
+표현
+일반적으로 in general
+월급 : salary
+너의 마음대로 해라
+I’d say that the kind of ~~~ depends on personal preference, but your future career prospects may be better in a large company
+
+Everybody is getting degrees in different streams but due to lack of opportunities or the tough competition in the market some people are not able to get an opportunity
+
+The ability to program and speak a foreign language are very important
+
+ 
+기본정보
+채점기준
+ - 과제응답/과제성취 모든 질문에 대하여 분명하게 답하는가?
+ - 글을 일관성 있고 짜임새있게 구성했는가?
+ - 적절하고 정확하게 어휘력을 사용했는가?
+ - 문법을 잘 작성하였는가
+
+task1
+ 150자 이상 (15분내 마무리하자) -> 160~180자 정도에 마무리
+task2
+ 250자 이상 (40분내 마무리하자) -> 260~280자 마무리!
+
+유형
+opinion - 토픽에 대한 내 의견을 물어보는 문제 (동의/비동의 - 긍정적/부정적)
+discussion - 양면을 모두 논의하는 문제 (양쪽의견 - 장단점)
+problem & solution - 문제점에 대한 문제점/해결책을 제시하는 문제
+복합형
+
+공부 사이트
+- writing 9 사이트 (추천)
+ 	- 나만의 템플릿을 만들자
+	- 점수별로 다른 사람들의 답안을 볼 수 있음
+ - chatgpt
+	 - chatgpt 첨삭!추천
+	 - ielts기준으로 몇점일 거 같은지,
+	 - 첨삭도 부탁하면 해줌
+
+task1 팁
+	- 문장구조 paraphrasing 사용해보자 (수동태였다가 능동태로 써본다던지)
+- 같은 의미의 단어를 여러가지로 표혐
+- 두번이상 같은 단어가 들어가지 않게!
+
+Task2
+-	템플릿을 정해두고
+-	문제를 주제들을 읽어보면서 단어들을 가져오자
+-	동의 비동의 의 경우 
+	서론에 나의 의견을 적고, 그 의견에 대한 이유들로만 구성!(대신 알차게)
+-	양쪽 의견 비교 후 내의견
+-	지지문단, 반대문단 하나씩 적고
+-	결론에 이런 근거를 토대로 나의 의견 적기
+-	질문 별로 템플릿 구성!
+
+기본적인 틀을 영어로 짜고 그 다음에 짜기!
+
+남은 시간에는 오탈자, 단어 바꾸기에 시간 쓰자
+첨삭은  chatgpt!
+시간 재면서 풀기
+
+chatgpt한테 아이디어 물어보기
+
+무료첨삭
+ 
+Cambridge 18
+Test1-Task1
+Topic ▼
+Your English-speaking friend has asked for your help with a college project he is doing about celebrating New Year in different countries.
+
+write a letter to your friend
+ - say how important new year is to people in your country
+ - describe how new year is celebrated in your country
+ - explain what you like about new year celebrations in your country
+
+
+Dear Jason,
+Hi Jason, How are you doing? Your college project sounds interesting! I'm happy to tell you about New Year in Korea.
+In Korea, we call the day "Sul," which is when people celebrate and bless the beginning of the New Year. It is the biggest day in Korea, and it's a public holiday. Most Koreans usually spend their time with family during Sul. Through this time, we have daily conversations with family because it's a rare opportunity for families to get together and share their daily lives.
+We make the Korean traditional dish called "ddukgook," which is made with rice cake. We have a tradition that eating ddukgook symbolizes turning another year older.
+In my case, I usually go on a trip with my family, which is our family tradition. Actually, we went to France last Sul and enjoyed wonderful dishes. I think I will continue the family tradition.
+I hope that helps. Do ask if there's anything else you'd like to know.
+All the best.
+Your friend, Jaehyun
+
+
+
+
+Task2
+Topic ▼
+Some people say that it is better to work for a large company than a samll one. Do you agree or disagree?
+
+Job seekers often question whether it is better to work for a large company or a small company. In my case, I prefer to work for a large company, considering the advantages and disadvantages of both.
+Many people want to be hired by large companies because they provide various benefits. Large companies have plenty of resources, leading to higher salaries and offering numerous opportunities to develop employees' skills through seminars or classes. Additionally, changing companies is more accessible in a large company, which I strongly agree with.
+Some people prefer small companies, arguing that they can work in any role they want. In a large company, with numerous teams, it can be challenging to join the specific department one desires, and promotions may be more difficult to attain. Another benefit of working in a small company is the ability to wear different hats, enhancing employees' skills. This experience allows employees to work in various departments, providing valuable insights into how the company operates.
+In conclusion, I believe that the services provided by a large company are more valuable than working for a small company. Firstly, we work for a company to earn money. For these reasons, I contend that it is better to work for a large company than a small one.
+
+
+Test2
+Task1
+You are soon going to spend three months doing work experience in an organisation.
+- write a letter to the manager of the organiㄴation where you are going to do work experience.
+In your letter
+- thank the manager for the opportunity to do work experience
+- explain what you hope to learn from the work experience
+- ask some questions about the work experience you are going to do
+
+
+Dear Jason,
+I am writing to express my enthusiasm and gratitude for the opportunity to undertake work experience at ABC Company. It is a great opportunity for me to work in ABC company. As a computer engineering major at Sejong University, I have always aspired to apply my programming skills in a real-world setting.
+During my time at ABC Company, I hope to wear various hats, including programming, managing servers, and consulting with customers. I am particularly interested in gaining experience in XYZ programming languages, server infrastructure management, and providing innovative solutions to customers.
+I do have some inquiries regarding my work experience. I heard from the HR manager that a positive work experience score could lead to potential employment. I would appreciate it if you could clarify this aspect and provide more details about the potential employment opportunity. Additionally, I am interested in knowing the exact salary associated with this work experience.
+Thank you once again for this valuable opportunity. I look forward to your response and any further guidance you may provide.
+Best regards, Jaehyun
+
+
+
+
+Task2
+
+When we meet someonf for the first time, we generally decide very quickly what kind of person we think they are and if we like them or not. Is this a good thing or bad thing?
+
+There are many papers and reports that suggest when we meet someone for the first time, most people generally decide what kind of person they are within 5 seconds. Some people may question whether this opinion is positive or negative. In my personal opinion, I strongly agree with the mentioned reports, and I believe this perspective is quite natural. However, I think prejudicing someone's personality is a bad thing.
+We can find a lot of information about someone's appearance, such as the clothes they wear, when we meet them for the first time. We can make assumptions about someone's personality based on their style. For instance, if someone wears a black leather jacket and has tattoos, we might infer that their mood and behavior could be strong. On the other hand, they could be a very gentle person who enjoys baking and happy to serve it. Therefore, we must avoid making prejudgments.
+I had experiences related to this topic. When I was in middle school, I met a friend named Minsu on the first day of a new semester. His height was very short, and it seemed that he couldn't exercise very well. A few days later, we had a chance to play football with friends from another school. Everyone was shocked by Minsu's technique. He scored over 5 points and was selected as the MVP player of the game. From that day, I decided not to underestimate someone based on their initial impression.
+In conclusion, it is instinctive and a natural consequence that we judge someone within 5 seconds. However, we must not prejudge and underestimate someone. I learned this through my experiences.
+
+
+
+ 
+Test3
+
+
+Task1
+
+Dear sir/madam,
+I am writing to address an incident that occurred last Sunday.
+I had a trouble with my tickets which I booked a week before the 14:30 train.
+I went to the ABC station to catch the train, but the staff member named Jack at the station center informed me that my tickets are not valid, and I should buy some new tickets to use the train.
+I was shocked that the staff didn't answer my request to check my tickets, but he just shouted me to buy new tickets. This incident was particularly distressing, promting me to bring it your attention through this letter. 
+I would appreciate clarification on two matters regarding this issue.
+First, Is there any payback process related my previous tickets which I booked?
+Second, I have heard from HR manger, there are some complaint program about your staff.
+
+ I am keen to understand the specific steps involved in both of these aspects.
+hope to see the comments with this letter.
+From Jaehyun.
+
+Task2
+"These days, many working people have more than one job at the same time. There are several reasons for this trend. In my view, financial inflation is the primary cause of this phenomenon. The salary from one workplace is insufficient for living expenses. Moreover, learning a new job has become more accessible due to abundant resources such as books and the internet.
+We need to consider the advantages and disadvantages of having more than one job simultaneously. There are two benefits to having more than one job. Firstly, you can earn enough money to live comfortably and support your family. Additionally, you can save for buying a house or funding other ventures. Secondly, having an additional job prepares you for unexpected job loss, allowing you to sustain yourself until securing another job. Without an additional source of income and insufficient savings, it can lead to an unimaginable situation."
+
+But also, there are some disadvantages too. First, you don't have enough time to rest. It may lead to spending more money due to illness. Second, you don't have the specific depth of knowledge in your work. These days, you have to learn new techniques and develop your own skills wherever you work. But if you work in various workplaces, concentrating on upgrading your own skills and becoming an expert in a specific area becomes challenging. Becoming an expert is a crucial aspect within a group. It gives you a higher salary and makes you an irreplaceable person.
+To conclude, there are certain advantages and disadvantages to having more than one job at the same time. But in the long run, it is more worthwhile to focus on studying a specific field and acquiring one's own skills than working for many workplaces
+
