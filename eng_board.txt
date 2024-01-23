@@ -2,7 +2,7 @@ Part1
 
 시작 문구
 -	I hope you well
--	I’m writing this letter to you to (discuss/complain) about~
+-	I’m writing this letter to (discuss/complain) about~
 -	~~~ sounds really interesting! I’d be happy to tell you about ~~~ project.
 
 사용문구
@@ -44,10 +44,26 @@ Job seekers often question whether it is better to ~~
 I’d say that the kind of ~~~ depends on personal preference, but your future career prospects may be better in a large company
 
 Everybody is getting degrees in different streams but due to lack of opportunities or the tough competition in the market some people are not able to get an opportunity
-
 The ability to program and speak a foreign language are very important
 
- 
+표현2
+Thank you so much again for sending me on the ??? course
+It was valuable training and I now feel a lot more confident that I can handle~~~ in the team
+It would be a good opportunity to ??? and it add to their knowledge.
+cost of living
+diversitifying your skills 스킬을 다양화하다
+gaining more experience
+ -> can make you  more employable when negotiating the job market
+ - putting all your eggs in one basket : 한군데 몰빵하다
+what's more 게다가!
+
+I was wonering if it~
+I would like to prepare ~
+시작2
+-the service i received at ~
+- this essay will argue that the reason for people having~
+ - 시간이 갈수록 : gone are the days
+  -> gone are the days when people coule rely on one source of income to satisfy all their financial needs
 기본정보
 채점기준
  - 과제응답/과제성취 모든 질문에 대하여 분명하게 답하는가?
