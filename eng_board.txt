@@ -115,7 +115,7 @@ Dear Jason,
 Hi Jason, How are you doing? Your college project sounds interesting! I'm happy to tell you about New Year in Korea.
 In Korea, we call the day "Sul," which is when people celebrate and bless the beginning of the New Year. It is the biggest day in Korea, and it's a public holiday. Most Koreans usually spend their time with family during Sul. Through this time, we have daily conversations with family because it's a rare opportunity for families to get together and share their daily lives.
 We make the Korean traditional dish called "ddukgook," which is made with rice cake. We have a tradition that eating ddukgook symbolizes turning another year older.
-In my case, I usually go on a trip with my family, which is our family tradition. Actually, we went to France last Sul and enjoyed wonderful dishes. I think I will continue the family tradition.
+In my case, I usually go on a trip with my family, which is our family tradition. Actually, we went to ㅣFrance last Sul and enjoyed wonderful dishes. I think I will continue the family tradition.
 I hope that helps. Do ask if there's anything else you'd like to know.
 All the best.
 Your friend, Jaehyun
@@ -207,3 +207,11 @@ We need to consider the advantages and disadvantages of having more than one job
 But also, there are some disadvantages too. First, you don't have enough time to rest. It may lead to spending more money due to illness. Second, you don't have the specific depth of knowledge in your work. These days, you have to learn new techniques and develop your own skills wherever you work. But if you work in various workplaces, concentrating on upgrading your own skills and becoming an expert in a specific area becomes challenging. Becoming an expert is a crucial aspect within a group. It gives you a higher salary and makes you an irreplaceable person.
 To conclude, there are certain advantages and disadvantages to having more than one job at the same time. But in the long run, it is more worthwhile to focus on studying a specific field and acquiring one's own skills than working for many workplaces
 
+test4
+
+task1
+Dear Jaosn,
+Firstly, I appreciate with your support to taking a training course. It it about algorithm and server management which is related with my current work. As you know, I will begin to mange Linux Server from April 4th, it was really helpful to me, such as how to controll the usage of CPU or Database management. Moreover, I have never used Database before, Database management was quite tough but, it really helps me to know the basic of Database. However, I heard from the HR Manager that 
+If there is anything you want to know, contact me anytime.
+Sincerely,
+Jaehyun
