@@ -197,3 +197,16 @@ settle down 편안히 앉다, 정착하다
 poverty 가난
 plot 구성, 줄거리
 
+'24.1.24
+consistency : 일관성, 농도
+substance : 물질, 실체
+vapour : 수증기
+timber : 목재
+trolley : 카트
+fungus, fungi : 곰팡이
+dormant : 휴먼기의
+nocturnal : 야행성의
+contellation : 별자리
+intrude 침범하다
+intrusion 침입, 침범
+
