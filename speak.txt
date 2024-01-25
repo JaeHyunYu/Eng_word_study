@@ -1,19 +1,20 @@
 
 Part1
+  -> I have lived here for 1 year.
+     I like the infastructure here, suc as~
 The city you live in
 - what city do you live in?
-- I live in CHEl right now, Actually i moved here 1 years ago due to my workplace.
+- I live in 대전 right now. Actually, I moved here 1 year ago due to my workplace.
 - Do you like this city? why?
-- Yes, I do. I love the infra here, such as cafe or restaurants. And especially, I like the public transporation system. I can go wherever i want by subway or bus.
+- Yes, I do. I love the infrastructure here, such as cafes and restaurants. Especially, I like the public transportation system. I can go wherever I want by subway or bus.
 - How long have you lived in this city?
-- As i told you, i lived about 1years.
+- As I told you, I have lived here for about 1 year.
 - are there big changes in this city?
-- not really, but i heard that the region named 4 in daejon has benn changed a lot.
-There were no buildings or infra before, but now, there are lots of cafes and apartment.
+- Not really, but I heard that the area called "4" in Daejeon has changed a lot. There were no buildings or infrastructure before, but now, there are lots of cafes and apartments.
 - is this city your permanent residence?
-- No, i will move to Seoul next year. This is because i will move the workplace to seoul.
+- No, I will move to Seoul next year. This is because my workplace is relocating to Seoul.
 - are there people of different ages living in this city?
-- Yes, i think so. I can see various ages in this city.
+- Yes, I think so. I can see people of various ages in this city.
 Part2
 Describe a place you would like to go to relax
 - Where it is
@@ -22,22 +23,29 @@ Describe a place you would like to go to relax
 - explain why you would like to go to this place to relax
 
 Part2
+ -> I usually go to cafe to relax.
+    New techniques emerge every single day, and I have to deal with them.
+    it really helps me figure out how to handle the problems.
+
 Describe a place you would like to go to relax
 - Where it is
 - when you would like to go there
 - what you would do there
 - explain why you would like to go to this place to relax
 
-I usually go to cafe for relax I do quite lots of things there.
-First, I usually study such as programming or solving some hacking issues.
-As i told you, i'm working in the IT parts, so i have to study a lot.
-You know, the new techniques are appear every single day, and i have to deal with it.
-Secondly, I go there, when i have some toubles. I go there and take a rest for 1 hours. It really helps me to how to handle the problems.
-Lastly, i go there to meet my freinds. I think cafe is the best place to come together and have some daily conversation. I love their peaceful mood.
-So for that reasons i prefer to go cafe to relax myself.
+"I usually go to a cafe to relax, and I do quite a lot of things there. Firstly, I usually study, such as programming or solving some hacking issues. As I mentioned, I work in the IT field, so I have to study a lot. You know, new techniques emerge every single day, and I have to deal with them.
+
+Secondly, I go there when I have some troubles. I take a rest for about an hour, and it really helps me figure out how to handle the problems.
+
+Lastly, I go there to meet my friends. I think a cafe is the best place to come together and have some daily conversation. I love its peaceful atmosphere. So, for these reasons, I prefer going to a cafe to relax myself."
+
+
 Part3
+ -> I used to go to the gym and engage in fitness activities
+
 Do people have enough places to relax in your country?
--Yes, there are lots of place to leax. Cafe, 24hours restaurant, bistro could be the place to relax What do people usually do when they are relaxed?
-- I think it depends on personal tendancy. It could be just relaxing in their house or it could be meet some friends. In my case I prefer to meet friends.
+-Yes, there are lots of places to relax. Cafes, 24-hour restaurants, and bistros could be the places to relax.
+ What do people usually do when they are relaxed?
+- I think it depends on personal tendency. Some might choose to unwind ad home, while others prefer meeting up with  friends. In my case, I prefer to meet friends..
 Is physical activity good for relaxation?
-- Yes, It is. I strongly aree with it. I used to go gym and do some fitness activity. It helps me to be released.
+- Yes, it is. I strongly agree with it. I used to go to the gym and engage in fitness activities. It helped me to unwind.
