@@ -234,3 +234,15 @@ ventilate : 환기시키다
 acute : 심각한
 reluctantly : 마지못해, 싫어하면서
 illiterate : 문맹의
+
+'24.1.26
+lit : light과거형 밝혀주다 
+obligation : 의무
+wedge 쐐기
+unorthodox 특이한
+manoeuvre 동작
+lousy 엉망인
+on-site 현지의
+adjustment 수정 적응
+reflexive 반사성의
+awkwardness 어색한 난처한
