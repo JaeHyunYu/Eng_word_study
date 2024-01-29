@@ -1,8 +1,15 @@
-
 Part1
+
   -> I have lived here for 1 year.
      I like the infastructure here, suc as~
+
 The city you live in
+ - 대전에 살고, 이사온지 1년.
+ - infrastructure가 잘발달됨. 특히, transportation이 잘 발달되어 어디든지 버스나 지하철로 이동가능
+ - 대전의 변화 : 과거에는 큰 빌딩이 없었으나, 최근 5년간 매우 다양한 빌딩들이 지어짐(헬스장, 카페)
+ - 서울로 1년뒤 갈것임. 회사를 옮길 예정.
+ - 다양한 연령의 사람들이 살아가고 있음. 이에 따라 다양한 정부에서 지원하는 program들이 있음 -> 기타, 독서 모임들
+
 - what city do you live in?
 - I live in 대전 right now. Actually, I moved here 1 year ago due to my workplace.
 - Do you like this city? why?
@@ -15,6 +22,30 @@ The city you live in
 - No, I will move to Seoul next year. This is because my workplace is relocating to Seoul.
 - are there people of different ages living in this city?
 - Yes, I think so. I can see people of various ages in this city.
+
+
+
+crowded place
+ - 사람들이 많이 존재. 길거리 특히 24시간 카페에 사람은 항상 많음
+ - 집 근처에 24시간 카페가 있음. 나도 자주 이용함
+ - 사람 많은 거 좋아함. 새로운 사람 만나는 걸 좋아하고 crowded place는 사람 만나기 좋은 장소
+ - 사람들의 성향에 따라 선호도 존재. 
+ - 바로 어제도 사람 많은 까페에 갔음. 가서 공부하고 새로운 친구 민수를 사귐.
+
+ - Is the city where you live crowded?
+Yes, it is. I used to go cafe nearby my house whenever I have free time.
+Actually, the cafe I used to visit is open 24 hours and is always crowded. Not only this cafe, but the entire city of Daejon is crowded with people almost all the time.
+ - Is there a crowded place near where you live?
+Yes there is. Many places are corwded but especially, the Starbucks cafe is very cowded.
+ - Do you like crowded places?
+Yes, I do. I like to make new friends, and crowded places are the best place to meet new freind.
+- Do most people like crowded places?
+I don't think so.. It depends on the peronality.
+- When was the last time you were in a crowded place?
+umm. I usually go to a crowded cafe, so I could say that the last time was yesterday. I went to cafe yesterday where I often hang out.
+
+
+
 Part2
 Describe a place you would like to go to relax
 - Where it is
@@ -22,22 +53,35 @@ Describe a place you would like to go to relax
 - what you would do there
 - explain why you would like to go to this place to relax
 
-Part2
+- 까페가는 걸 좋아함. 가서 주로 공부를 하거나 친구를 만나 수다를 떰.
+- 공부하는 이유는 내가 사이버 분야에서 일하고 있는데 매일 새로운 이슈들이 발생함. 따라서 매일 공부를 해야함(every single day)
+- 까페는 친구를 만나 이야기 하기 아주 좋은 장소.
+- 커피의 향과 카페의 분위기가 날 relaxed하게 만들어줌 unwindy.
+
+
  -> I usually go to cafe to relax.
     New techniques emerge every single day, and I have to deal with them.
     it really helps me figure out how to handle the problems.
 
-Describe a place you would like to go to relax
-- Where it is
-- when you would like to go there
-- what you would do there
-- explain why you would like to go to this place to relax
+D
 
 "I usually go to a cafe to relax, and I do quite a lot of things there. Firstly, I usually study, such as programming or solving some hacking issues. As I mentioned, I work in the IT field, so I have to study a lot. You know, new techniques emerge every single day, and I have to deal with them.
 
 Secondly, I go there when I have some troubles. I take a rest for about an hour, and it really helps me figure out how to handle the problems.
 
 Lastly, I go there to meet my friends. I think a cafe is the best place to come together and have some daily conversation. I love its peaceful atmosphere. So, for these reasons, I prefer going to a cafe to relax myself."
+
+
+
+Describe a time when you helped someone
+
+- Where you helped him/her 
+   I helped my colleague in my workplace. about 2weeks before.
+ - Why you helped
+   He was struggled with his presantation about cyber treatment. 
+   And actually i'm work in the cyber park so I think I can help him.
+ - How you helped 
+ - expain how you felt about it
 
 
 Part3
@@ -52,28 +96,7 @@ Is physical activity good for relaxation?
 
 
 -> hang out
-crowded place
-Part1
- - Is the city where you live crowded?
-Yes, it is. I used to go cafe nearby my house whenever I have free time.
-Actually, the cafe I used to visit is open 24 hours and is always crowded. Not only this cafe, but the entire city of Daejon is crowded with people almost all the time.
- - Is there a crowded place near where you live?
-Yes there is. Many places are corwded but especially, the Starbucks cafe is very cowded.
- - Do you like crowded places?
-Yes, I do. I like to make new friends, and crowded places are the best place to meet new freind.
-- Do most people like crowded places?
-I don't think so.. It depends on the peronality.
-- When was the last time you were in a crowded place?
-umm. I usually go to a crowded cafe, so I could say that the last time was yesterday. I went to cafe yesterday where I often hang out.
 
-Par2
-Describe a time when you helped someone
- - Where you helped him/her 
-   I helped my colleague in my workplace. about 2weeks before.
- - Why you helped
-   He was struggled with his presantation about cyber treatment. 
-   And actually i'm work in the cyber park so I think I can help him.
- - How you helped 
- - expain how you felt about it
+
 
 part3
