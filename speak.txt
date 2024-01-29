@@ -63,7 +63,7 @@ Describe a place you would like to go to relax
     New techniques emerge every single day, and I have to deal with them.
     it really helps me figure out how to handle the problems.
 
-D
+
 
 "I usually go to a cafe to relax, and I do quite a lot of things there. Firstly, I usually study, such as programming or solving some hacking issues. As I mentioned, I work in the IT field, so I have to study a lot. You know, new techniques emerge every single day, and I have to deal with them.
 
@@ -71,8 +71,27 @@ Secondly, I go there when I have some troubles. I take a rest for about an hour,
 
 Lastly, I go there to meet my friends. I think a cafe is the best place to come together and have some daily conversation. I love its peaceful atmosphere. So, for these reasons, I prefer going to a cafe to relax myself."
 
+Part3
+ - 쉴 곳은 많이 존재함. 24 hour facility가 발달함 (카페, 식당)
+ - 사람에 따라 주로 쉬는 것이 다르긴함. 집에서 쉬는 것, 밖에서 사람을 만나는 것으로 나뉘어진다고 생각함
+ - 운동은 쉬는 것에 도움이 된다고 생각함. refresh해준다고 생각함 생각이 많을때.
+ - 스크린 앞에서 시간을 보내는 건 시간낭비라고 생각함 refresh도 안됨
+ - 요즘에는 다양한 할 것들이 생기고, 유튜브를 통해 배우기 쉬워짐 -> 이에 따라 사람들이 돈을 더 쉽게 쓴다고 생각함
+ - 앞서 말했듯이 쉽게 배우기 떄문에 과거보다 쉽게 다양한 방법으로 쉼
+
+ -> I used to go to the gym and engage in fitness activities
+
+Do people have enough places to relax in your country?
+-Yes, there are lots of places to relax. Cafes, 24-hour restaurants, and bistros could be the places to relax.
+ What do people usually do when they are relaxed?
+- I think it depends on personal tendency. Some might choose to unwind ad home, while others prefer meeting up with  friends. In my case, I prefer to meet friends..
+Is physical activity good for relaxation?
+- Yes, it is. I strongly agree with it. I used to go to the gym and engage in fitness activities. It helped me to unwind.
 
 
+
+
+Part2
 Describe a time when you helped someone
 
 - Where you helped him/her 
@@ -83,16 +102,6 @@ Describe a time when you helped someone
  - How you helped 
  - expain how you felt about it
 
-
-Part3
- -> I used to go to the gym and engage in fitness activities
-
-Do people have enough places to relax in your country?
--Yes, there are lots of places to relax. Cafes, 24-hour restaurants, and bistros could be the places to relax.
- What do people usually do when they are relaxed?
-- I think it depends on personal tendency. Some might choose to unwind ad home, while others prefer meeting up with  friends. In my case, I prefer to meet friends..
-Is physical activity good for relaxation?
-- Yes, it is. I strongly agree with it. I used to go to the gym and engage in fitness activities. It helped me to unwind.
 
 
 -> hang out
