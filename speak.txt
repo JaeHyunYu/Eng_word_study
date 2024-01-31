@@ -1,8 +1,5 @@
 Part1
 
-  -> I have lived here for 1 year.
-     I like the infastructure here, suc as~
-
 The city you live in
  - 대전에 살고, 이사온지 1년.
  - infrastructure가 잘발달됨. 특히, transportation이 잘 발달되어 어디든지 버스나 지하철로 이동가능
@@ -59,7 +56,13 @@ Singing
 
   - I think songs convey messages to people.
 
+
+
+
+
+
 Part2
+
 Describe a place you would like to go to relax
 - Where it is
 - when you would like to go there
@@ -85,6 +88,7 @@ Secondly, I go there when I have some troubles. I take a rest for about an hour,
 Lastly, I go there to meet my friends. I think a cafe is the best place to come together and have some daily conversation. I love its peaceful atmosphere. So, for these reasons, I prefer going to a cafe to relax myself."
 
 Part3
+
  - 쉴 곳은 많이 존재함. 24 hour facility가 발달함 (카페, 식당)
  - 사람에 따라 주로 쉬는 것이 다르긴함. 집에서 쉬는 것, 밖에서 사람을 만나는 것으로 나뉘어진다고 생각함
  - 운동은 쉬는 것에 도움이 된다고 생각함. refresh해준다고 생각함 생각이 많을때.
@@ -107,6 +111,13 @@ Is physical activity good for relaxation?
 Part2
 Describe a time when you helped someone
 
+직장 동료는 HR 에서 근무, 사이버위협에 관련된 발표에 어려움을 겪어서 도와줌 사이버 장비를, 프로세스에 대한 지식을 공유함
+satisfied and relaxed, 오히려 나의 지식을 한번 더 공부하는 기회가 되었음
+(remind)
+I helped my colleague in my workplace.
+My colleague work in HR Management team and I Work in Cyber team. I saw that he was struggled with the presentation about cyber treatment. I helped him because I think I can help him easily.
+
+
 - Where you helped him/her 
    I helped my colleague in my workplace. about 2weeks before.
  - Why you helped
@@ -117,20 +128,8 @@ Describe a time when you helped someone
 
 
 
--> hang out
-
-
-
 part3
 
-
-
-Part2
-직장 동료는 HR 에서 근무, 사이버위협에 관련된 발표에 어려움을 겪어서 도와줌 사이버 장비를, 프로세스에 대한 지식을 공유함
-satisfied and relaxed, 오히려 나의 지식을 한번 더 공부하는 기회가 (remind)
-I helped my colleague in my workplace.
-My colleague work in HR Management team and I Work in Cyber team. I saw that he was struggled with the presentation about cyber treatment. I helped him because I think I can help him easily.
-Part3
 사람들은 대게로 친절한 것으로 보인다
 Definetly, 사람들에게 친절해야한다 kindness is very important thing in relationship 숙제 안도와줘야함. have to learn how to solve the problem themselves.
 parents have to teach their chidren about sharing and kindness.
@@ -145,13 +144,28 @@ Describe an occasion when you heard someone complaining about something in a res
 - What he/she complained about
 - What the result was
 - explain how you felt about the experience
+
+
 편의점에서 있었음. 3년전
-이미 종료된 프로모션에 대해 건의 / 종료되었지만 안내 팜플릿이 남아있는 것에 대해 불만 오너가 사과하고 끝남 / 그럴만한 일인가 싶었다.
+이미 종료된 프로모션에 대해 건의 / 종료되었지만 안내 팜플릿이 남아있는 것에 대해 불만 오너가 사과하고 끝남 / 
+그럴만한 일인가 싶었다. = I just wander is it the issue was worth to take.
+
 I saw it at the convenient store and it was about 3 years ago.
 He was complained about the promotion which was finished before.
 He insisted that he did not know that the promotion was over and it't not the right thing. Because promotion pomplet was there.
 finally, the owner just said sorry about it the issue was over. not that comfortable. I just wander is it the issue was worth to taking issue.
+
+
 Part.3
+
+특정 부서가 있는 것으로 알고있음
+사람들은 주로 poor service흑은 옵션 변경에 관련된 내용으로 complain 진행 주로 바로 manager에게 말하는 것으로 암 9나도 그럼)
+매니저에게 말함 if it not working as I felt, then I will call the owner 나이랑은 상관없이 불만사항 말하는 듯 personality의 차이
+As I know, there are certain team to deal with complaints.
+They usually complain about the poor service or to change the options which they choosed
+They usually talk to the manager directly
+
+
 How do companies train their staff to deal
 with
 complaints?
@@ -160,9 +174,4 @@ How do most people complain in writing or by other methods?
 How do people often respond to poor customer service?
 How would you react if you received a poor service at a restaurant?
 Who are more likely to make complaints, older people or younger people?
-특정 부서가 있는 것으로 알고있음
-사람들은 주로 poor service흑은 옵션 변경에 관련된 내용으로 complain 진행 주로 바로 manager에게 말하는 것으로 암 9나도 그럼)
-매니저에게 말함 if it not working as I felt, then I will call the owner 나이랑은 상관없이 불만사항 말하는 듯 personality의 차이
-As I know, there are certain team to deal with complaints.
-They usually complain about the poor service or to change the options which they choosed
-They usually talk to the manager directly
+
