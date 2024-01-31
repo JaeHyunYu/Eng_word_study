@@ -246,3 +246,15 @@ on-site 현지의
 adjustment 수정 적응
 reflexive 반사성의
 awkwardness 어색한 난처한
+
+'24.1.31
+atlas : 지도책
+steep : 가파른
+damp : 축축한
+grievance : 불만사항
+mediation : 조정, 중재
+drab : 생기없는
+deprive : 빼앗다, 면직하다
+muck : 흙, 배설물
+sating : 윤나는, 부드러운
+dormancy : 휴면, 비활동 상태
