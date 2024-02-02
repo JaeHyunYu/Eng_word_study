@@ -258,3 +258,18 @@ deprive : 빼앗다, 면직하다
 muck : 흙, 배설물
 sating : 윤나는, 부드러운
 dormancy : 휴면, 비활동 상태
+
+'24.2.2
+polish : 광택, 닦기, 윤내기,  닦다
+plumber : 배관공
+electrician : 전기기술자
+morale : 사기
+prefrencial 우선권을 주는
+gratitude 고마움, 감사
+boo : 야유, 야유하다
+reserve : 예약하다, 보호구역
+fade : 바래다
+verge : 길가
+conservation : 보호, 보존
+coalition : 연립정부, 연합체
+robust : 팔팔한
