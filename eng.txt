@@ -273,3 +273,23 @@ verge : 길가
 conservation : 보호, 보존
 coalition : 연립정부, 연합체
 robust : 팔팔한
+
+'24.2.5
+premise : 전제
+corridor : 복도
+lorry : 짐마차
+virtuous : 도덕적인, 고결한
+pupil : 학생
+dull : 따분한 둔해지다
+leisure : 레저, 여가
+load : 짐
+undue : 지나친, 과도한
+spine : 척추, 가시
+agitate : 주장하다, 뒤흔들다
+sack : 봉지, 파면하다
+proactive : contrast
+cluster : 무리
+conspicuous : 확실히 보이는
+assort : 어울리다
+entrepreneur 사업가
+discreet : 신중한
