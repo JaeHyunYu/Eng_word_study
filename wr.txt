@@ -1,4 +1,4 @@
-essay structure
+Essay structure
 
 1. introduction
 	- 전반적인 outline, my aim
@@ -18,13 +18,22 @@ part1
  - I hope you well
  - I’m writing this letter to (discuss/complain) about~
  - ~~~ sounds really interesting! I’d be happy to tell you about ~~~ project.
- - the service i received at ~
+ - I’m happy to inform you about~
+ - I recognised that you are looking for an advice about ~
+ - the service I received at ~
+ - I have not had the opportunity to learn it.
+
 
 표현
- - ??? has been (disturbed/destroyed) by the ??? from ??? (around 10pm / 10 years before)
- - ??? has affected very badly, especially ???, as it is almost impossible to do my work
- - It’s important to me as it’s a very nice chance for the family to come together and have a daily conversation
- - I’m happy to inform you about~
+- ??? has been (disturbed/destroyed) by the ??? from ??? (around 10pm / 10 years before)
+- ??? has affected very badly, especially ???, as it is almost impossible to do my work
+- It’s important to me as it’s a very nice chance for the family to come together and have a daily conversation
+- You can register and start your sessions right away.
+- I do not able to the party because ~~
+- I would like to know if there is a possiblity to change my course
+- I chose this program because I wanted to improve my knowledge on that specific area, as you know.
+- Thank you so much again for sending me on the ??? course
+- It was valuable training and I now feel a lot more confident that I can handle~~~ in the team
 
 부탁
  - Might I suggest that a letter send to ~~ , reminding him/them of the rules regarding noise.
@@ -39,30 +48,48 @@ Part2
 내 주장 - 근거
 주장 정리 - 근거 요약 - 마무리
 
-- this essay will argue that the reason for people having~
+시작
+- this essay will argue that the reason for people having~ / - argue that balancing study and employment is challenging.
+- some of the most common reasons for ~~~ are ~~~다
+- The practice of training physically with personal fitness guides is getting increasingly common these days.
+- The growing need for ~~~ can be attributed to the following reasons. Firstly, ~~~
+- As a result,~~.
+- This essay will discuss the reasons some individuals dislike changes in their society and personal lives, as well as the opposing viewpoint.
+양쪽 다 생각해보고 싶다
+- but I’d like to consider the advantages and disadvantages of both.
 
 표현
-- Thank you so much again for sending me on the ??? course
-- It was valuable training and I now feel a lot more confident that I can handle~~~ in the team
 - It would be a good opportunity to ??? and it add to their knowledge.
-- some of the most common reasons for ~~~ are ~~~다
 - that means that ~~ 
+- ~~ is playing a very important role in our society.
+- The increasing demand for ~~ has made significant improvements to modern people's lives.
+- loves their major and wants to work in a related field
+- However, some people want to change their job because they chase a dream of their passion although they have worked even in good conditions.
+- Following this trend, I believe ~~ in the future
+- There are various reasons behind the preference for stability.
+- some argue that change brings positive effects. 
+- I believe that investing in personal development for future prospects is a more valuable approach
 
-양쪽 다 생각해보고 싶다
- - but I’d like to consider the advantages and disadvantages of both.
- - 시간이 갈수록 : gone are the days
-  -> gone are the days when people coule rely on one source of income to satisfy all their financial needs
+- 시간이 갈수록 : gone are the days
+  -> gone are the days people coule rely on one source of income to satisfy all their financial needs
  - putting all your eggs in one basket : 한군데 몰빵하다
  - cost of living
  - diversitifying your skills 스킬을 다양화하다
  - gaining more experience
-  -> can make you  more employable when negotiating the job market
+  -> can make you more employable when negotiating the job market
+ 
+
  - I was wonering if it~
  - I would like to prepare ~
 
+ - Since our job take the majority of our daytime, our colleagues are a important part of our social life.
+??? can be a good occasion to ~~
+ -> This essay will express my agreement with this idea, claiming that the many choices nowadays offer more advantages than disadvantage
+ -> Also, people can meet not only the desire for studying but also the desire for consumption
+
 마무리
  - 결과적으로 : Based on the above,
--  To conclude, more and more people are becoming self-employed, choosing the flexibility and unlimited potentia
+-  To conclude, more and more people are becoming self-employed, choosing the flexibility and unlimited potential
 
 표현2
  - what's more 게다가!
@@ -74,10 +101,12 @@ Part2
  - Moreover
  - hence
  - On the contrary
+ - Needless to say that ~~~
+ - a wide range of choices
 
-표현3
- - This essay will discuss the reasons some individuals dislike changes in their society and personal lives, as well as the opposing viewpoint.
-- There are various reasons behind the preference for stability.
-- some argue that change brings positive effects. 
-- I align with this perspective. 
-- I believe that investing in personal development for future prospects is a more valuable approach
+In my view = In my opinion = In my perspective
+ ->  I align with this perspective. 
+In usuall = Typically
+These days = In comtemporary times = In the present world
+circumstances = 상황
+perspective = 관점
