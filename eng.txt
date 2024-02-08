@@ -293,3 +293,10 @@ conspicuous : 확실히 보이는
 assort : 어울리다
 entrepreneur 사업가
 discreet : 신중한
+
+
+'24.2.8
+fragile 부서지기 쉬
+commission 수수
+controversial 논쟁
+obesity 비만
