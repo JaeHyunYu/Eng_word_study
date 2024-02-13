@@ -1,3 +1,11 @@
+Part1
+You recently bought a piece of equipment for your kitchen but it did not work. You phoned the shop but no action was taken. 
+ -> microwave를 샀는데 제대로 작동 안됨
+ -> When I plugged it in, it did not work properly
+ -> 고객 접대가 불만족
+
+
+Part2
 
 Effective learning requires time, comfort and peace, so it is impossible to combine study and employment. Study and employment distract one from another. To what extent do you think the statements are realistic? support your opinion with examples.
  -> 공부와 구직은 병행되기가 어렵다 -> 하지만 내가 좋아하는 일과 구직이 동일 시 되면 병행 가능
