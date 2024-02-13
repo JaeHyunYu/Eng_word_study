@@ -4,6 +4,10 @@ You recently bought a piece of equipment for your kitchen but it did not work. Y
  -> When I plugged it in, it did not work properly
  -> 고객 접대가 불만족
 
+You recently ordered a small item online but when it arrived it was unusable.
+ -> microwave를 샀는데 작동안됨
+ -> 선이 파괴된 거 같음
+ -> It turned off with a strange sound
 
 Part2
 
