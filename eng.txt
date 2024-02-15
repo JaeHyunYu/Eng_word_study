@@ -296,7 +296,27 @@ discreet : 신중한
 
 
 '24.2.8
-fragile 부서지기 쉬
-commission 수수
+fragile 부서지기 쉬운
+commission 수수료
 controversial 논쟁
 obesity 비만
+fatal 치명적인
+communal 공동
+leaflet 작은 잎
+leaflets 전단지
+seclude 외딴
+deserted 버려진
+bruises 타박상
+
+
+'24.2.15
+erode 좀먹다 
+manoxide 일산화탄소
+intrigue 음모
+indispensable 없어서는 안될
+regiment 연대
+prosperous 번영하는
+legislative 입법
+juggle 속이다
+negligent 부주의한
+
